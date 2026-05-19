@@ -76,8 +76,7 @@ Project stored on local device
 
 Demo
 Demo video:
-(https://drive.google.com/file/d/1UppKruS8y1JU8iHm4NmLQVQtdxoijboL/view?usp=drivesdk)
-
+(https://drive.google.com/file/d/1QiBNCxi867dvgW--M2vsBNt8IdNiL84y/view?usp=sharing)
 # Example Prompt
 {
   "project": "autonomous_drone_system",
