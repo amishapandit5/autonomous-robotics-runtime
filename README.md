@@ -53,7 +53,7 @@ The goal is to create an autonomous engineering system capable of:
 
 # Architecture
 
-User Prompt
+User Prompt 
 ↓
 Planner System
 ↓
@@ -76,8 +76,7 @@ Project stored on local device
 
 Demo
 Demo video:
-(https://drive.google.com/file/d/1SihkBp2q446gvuU223D6VhI7TlOVaAbq/view?usp=sharing)
-
+(https://drive.google.com/file/d/1UppKruS8y1JU8iHm4NmLQVQtdxoijboL/view?usp=drivesdk)
 
 # Example Prompt
 {
@@ -86,20 +85,20 @@ Demo video:
 }
 
 Tech Stack
-Python
-FastAPI
-Docker
-ROS2 Humble
-Ollama
-Qwen2.5-Coder
-Autonomous Runtime Orchestration
+- Python
+- FastAPI
+- Docker
+- ROS2 Humble
+- Ollama
+- Qwen2.5-Coder
+- Autonomous Runtime Orchestration
 
 # Future Roadmap:
-Simulation environments (Gazebo / Isaac Sim)
-Multi-container robotics orchestration
-GPU execution infrastructure
-Autonomous testing pipelines
-Long-term engineering memory
-Distributed runtime systems
-Solo CLI integration
-Multi-agent engineering systems
+- Simulation environments (Gazebo / Isaac Sim)
+- Multi-container robotics orchestration
+- GPU execution infrastructure
+- Autonomous testing pipelines
+- Long-term engineering memory
+- Distributed runtime systems
+- Solo CLI integration
+- Multi-agent engineering systems
